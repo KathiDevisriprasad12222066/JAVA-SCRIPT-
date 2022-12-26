@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<script type="text/javascript">
+
+function.abc(){
+ alert("Welcome to the school of CSE")
+}
+</script>
+</head>
+<body>
+<form>
+<input type="button"onclick="abc()" value="Test"/>
+</form>
+
+</body>
+</html>
